@@ -216,7 +216,7 @@ li.rss a span:hover{
 .toggleMenu {
     display:  none;
     background:#00BFF0;
-    padding: 10px 15px;
+    padding: 0px 10px;
     width: 100%;
     color: #fff;
 }
@@ -235,6 +235,7 @@ li.rss a span:hover{
 .nav ul {
     list-style: none;
     width:12em;
+	
 }
 .nav li a {
 	display: block;
@@ -245,9 +246,11 @@ li.rss a span:hover{
 	font-weight:400;
 	margin-right: 10px;
 	border:1px solid #72D0F4;
+	
 }
 .nav li {
     position: relative;
+	
 }
 .nav li.active a, .nav li a:hover {
 	border:1px solid #fff;
@@ -262,9 +265,11 @@ li.rss a span:hover{
 	transition: all 0.3s ease-out;
 	background:#fff;
 	color:#00BFF0;
+	padding-top:0;
 }
 .nav > li {
     float: left;
+	
 }
 .nav > li > a.parent {
    background: url(../images/nav_arrow.png) no-repeat 15px 15px #FFF;
@@ -275,15 +280,17 @@ li.rss a span:hover{
 	-o-border-radius: 3px;
 	border: none;
 	padding: 10px 20px 10px 40px;
+	
 }
 .nav li  ul {
     position: absolute;
     left:-9999px;
    	padding:27px 13px;
     z-index:9999;
+	padding-top:2px;
 }
 .nav > li.hover > ul {
-    left:-10px;
+    left:5px;
 }
 .nav li li.hover ul {
     left: 100%;
