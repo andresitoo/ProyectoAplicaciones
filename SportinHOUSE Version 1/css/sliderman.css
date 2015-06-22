@@ -1,0 +1,38 @@
+#slider_container_2 { 
+margin: 0px auto;
+padding: 165px;   
+padding-top:inherit;
+padding-bottom:inherit;
+}
+
+
+
+.SliderName_2Description {
+	padding: 10px;
+	font-family: Tahoma,Arial,Helvetica;
+	font-size: 14px;
+	line-height: 30px;
+	letter-spacing: 1px;
+	text-align: center;
+	color: #;
+	text-shadow: 0 1px 3px #000000;
+}
+
+#SliderNameNavigation_2 { margin: 0; padding: 80px 0 0 0; height: 16px; text-align: center; overflow-y: hidden; }
+
+#SliderNameNavigation_2 a:link, #SliderNameNavigation_2 a:active, #SliderNameNavigation_2 a:visited, #SliderNameNavigation_2 a:hover{
+	margin: 0;
+	padding: 0;
+	font-size: 0;
+	line-height: 0;
+	text-decoration: none;
+}
+
+#SliderNameNavigation_2 a img
+{
+	border: none;
+	width: 80px;
+	height: 16px;
+	
+}
+
