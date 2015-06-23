@@ -94,7 +94,7 @@ body a{
 }
 .header-arrow{
 	text-align:center;
-	padding:16% 0 5% 0;
+	padding:27% 0 5% 0;
 }
 .header-arrow a span {
 	width:209px;
@@ -3379,11 +3379,11 @@ input.inputbox, input.required, div.k2AccountPage input[type="text"] {
 	background: #FFF;
 	outline-color: #00BFF0;
 	border: 1px solid #EEE;
-	color: inherit;
+	color:#06F ;
 	padding: 7px 20px;
 	width: 100%;
 	font-family: 'Open Sans', sans-serif;
-	font-size: 0.85em;
+	font-size: 20px;
 }
 .remember {
 	margin-top: 6%;
