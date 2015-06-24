@@ -1,3 +1,13 @@
+<?php
+	
+    $valor1 = "amorales";
+    $valor2 = "aede";
+	
+if ($_POST) {
+	$usuario= $_POST["usuario"];
+
+		if($usuario==$valor1 or $usuario==$valor2 ){
+?>
 
 <!DOCTYPE HTML>
 <html>
@@ -33,16 +43,16 @@
 	<div class="header1">
 	   <div class="container">
 		  <div class="header-text">
-			<h4 class="title"><a href="indexprincipal.php"><img src="images/storelogin.png" alt=""/></a>Sporting House</h4>
+			<h4 class="title"><a href="loginusuario.php"><img src="images/storelogin.png" alt=""/></a>Sporting House</h4>
             <!-- action="php/validacionusuario.php" -->
             <form name="ingreso" action="php/validacionpass.php" method="post">
            
 						  <fieldset class="input">
-						  <!--  <p id="login-form-username">
+						   <p id="login-form-username">
 						      <label for="modlgn_username" class="user">User</label>
 
-						      <input id="usuario" type="text" name="usuario" class="inputbox" size="18" autocomplete="off">
-						    </p> -->
+						      <input id="usuario" type="text" value="<?php echo $usuario; ?>" name="usuario" class="inputbox" size="18" autocomplete="off">
+						    					    </p> 
          
          <p id="login-form-password">
 						      <label for="modlgn_passwd" class="user">Password</label>
@@ -68,3 +78,9 @@
 	
 </body>
 </html>
+<?php	
+}else{
+		echo "<meta http-equiv='Refresh' content='0;loginusuario.php'>";
+	}}
+?>
+	

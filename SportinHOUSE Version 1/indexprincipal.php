@@ -46,10 +46,10 @@
 		   <a class="toggleMenu" href="#">Menu</a>
 			 <ul class="nav">
              
-             <li class="menuprin"><a href="loginusuario.php"> Seguridad</a></li>
-                 <li class="menuprin"><a href="loginusuario.php">Inventario</a></li>
-                 
-                  
+             <li class="menuprin"><a href="webpage/seguridad/index.php"> Seguridad</a></li>
+                 <li class="menuprin"><a href="webpage/inventario/index.php">Inventario</a></li>
+                 <li class="menuprin"><a href="loginusuario.php">Salir</a></li>
+      
 			 </ul>
 			  <script type="text/javascript" src="js/nav.js"></script>
 		  </div><!-- end h_menu4 -->

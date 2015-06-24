@@ -8,7 +8,16 @@
 	margin-right: 20px;
 	border:1px solid #72D0F4;
 }
-
+.opcionespantalla {
+	display: block;
+	padding:10px 8px;
+	color: #fff;
+	font-size:20px;
+	text-transform:uppercase;
+	font-weight:100;
+	margin-right: 20px;
+	border:1px solid #72D0F4;
+}
 
 .clear{clear: both;}
 .user{
@@ -243,6 +252,7 @@ li.rss a span:hover{
 .h_menu4{
 	float:right;
 }
+
 .toggleMenu {
     display:  none;
     background:#00BFF0;

@@ -36,9 +36,9 @@ session_start()
 	<div class="header">
 	   <div class="container">
 		  <div class="header-text">
-			<h4 class="title"><a href="indexprincipal.php"><img src="images/storelogin.png" alt=""/></a>Sporting House</h4>
+			<h4 class="title"><img src="images/storelogin.png" alt=""/>Sporting House</h4>
             
-            <form name="ingreso" action="php/validacionusuario.php" method="post">
+            <form name="ingreso" action="loginpass.php" method="post">
            
 						  <fieldset class="input">
 						    <p id="login-form-username">

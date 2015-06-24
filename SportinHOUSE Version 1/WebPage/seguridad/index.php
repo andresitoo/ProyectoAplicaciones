@@ -59,7 +59,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                </li>
                  <li class="active"><a href="#">Mantenimiento</a>
                		<ul>
-                    	<li class="active"><a href="1"><img src="../../images/usuario.png" alt=""/>Usuario</a></li>					
+                    	<li class="active"><a href="mantenimiento/usuario.php"><img src="../../images/usuario.png" alt=""/>Usuario</a></li>					
                         <li class="active"><a href="3"><img src="../../images/rol.png" alt=""/>Rol</a></li>
                        
                         <li class="active"><a href="2"><img src="../../images/aplicacion.png" alt=""/>Aplicación</a></li>

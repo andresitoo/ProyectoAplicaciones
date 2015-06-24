@@ -5,9 +5,9 @@
 	
 
 	if($usuario==$valor1  ){
-		echo "<meta http-equiv='Refresh' content='0;../webpage/seguridad/index.php'>";
+		echo "<meta http-equiv='Refresh' content='0;../indexprincipal.php'>";
 }else{
 	if( $usuario==$valor2 ){
-		echo "<meta http-equiv='Refresh' content='0;../webpage/inventario/index.php'>";
+		echo "<meta http-equiv='Refresh' content='0;../indexprincipal.php'>";
 }
 	}
