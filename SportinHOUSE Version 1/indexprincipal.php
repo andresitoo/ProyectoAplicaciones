@@ -46,8 +46,8 @@
 		   <a class="toggleMenu" href="#">Menu</a>
 			 <ul class="nav">
              
-             <li class="menuprin"><a href="login.php"> Seguridad</a></li>
-                 <li class="menuprin"><a href="login.php">Inventario</a></li>
+             <li class="menuprin"><a href="loginusuario.php"> Seguridad</a></li>
+                 <li class="menuprin"><a href="loginusuario.php">Inventario</a></li>
                  
                   
 			 </ul>
@@ -69,14 +69,16 @@
      <div id="slider_container_2">
 
 				<div id="SliderName_2" class="SliderName_2">
-					<img src="images/home_01.jpg" height="1400"  width="500" usemap="#img1map" title="Demo2 first" />
+					<img src="images/ima1.jpg" height="1400"  width="500" usemap="#img1map" title="Demo2 first" />
 				
 					
-					<img src="images/home_02.jpg" width="1400" height="500" alt="Demo2 second" title="Demo2 second" />
+					<img src="images/ima2.jpg" width="1400" height="500" alt="Demo2 second" title="Demo2 second" />
 					
-					<img src="images/home_03.jpg" width="1400" height="500" alt="Demo2 third" title="Demo2 third" />
+					<img src="images/ima3.jpg" width="1400" height="500" alt="Demo2 third" title="Demo2 third" />
 					
-					<img src="images/home_04.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
+					<img src="images/ima4.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
+                    
+                    <img src="images/ima5.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
 					
 	   </div>
                 

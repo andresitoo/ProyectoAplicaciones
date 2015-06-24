@@ -1,6 +1,3 @@
-<?php
-session_start()
-?>
 
 <!DOCTYPE HTML>
 <html>
@@ -33,21 +30,24 @@ session_start()
 </head>
 <body>
  <!-- start header_top -->
-	<div class="header">
+	<div class="header1">
 	   <div class="container">
 		  <div class="header-text">
 			<h4 class="title"><a href="indexprincipal.php"><img src="images/storelogin.png" alt=""/></a>Sporting House</h4>
-            <form name="ingreso" action="php/validacionlogin.php" method="post">
+            <!-- action="php/validacionusuario.php" -->
+            <form name="ingreso" action="php/validacionpass.php" method="post">
            
 						  <fieldset class="input">
-						    <p id="login-form-username">
-						      <label for="modlgn_username">User</label>
+						  <!--  <p id="login-form-username">
+						      <label for="modlgn_username" class="user">User</label>
+
 						      <input id="usuario" type="text" name="usuario" class="inputbox" size="18" autocomplete="off">
-						    </p>
-						    <p id="login-form-password">
-						      <label for="modlgn_passwd">Password</label>
-						      <input id="pass" type="password" name="pass" class="inputbox" size="18" autocomplete="off">
-						    </p>
+						    </p> -->
+         
+         <p id="login-form-password">
+						      <label for="modlgn_passwd" class="user">Password</label>
+						      <input id="pass" type="password" name="contraseña" class="inputbox" size="18" autocomplete="off">
+						    </p> 
 						    <div class="remember">
 							    <p id="login-form-remember">
 							      <label for="modlgn_remember"><a href="#">Forget Your Password ? </a></label>
@@ -65,22 +65,6 @@ session_start()
 	    </div>
 	  </div>
 	<!-- end header_top -->
-	<!-- start header_bottom -->
-	<div class="copyright">
-      <div class="container">
-        <div class="social">	
-			   <ul>	
-				  <li class="facebook"><a href="#"><span> </span></a></li>
-				  <li class="twitter"><a href="#"><span> </span></a></li>
-				  <li class="pinterest"><a href="#"><span> </span></a></li>	
-				  <li class="google"><a href="#"><span> </span></a></li>
-				  <li class="tumblr"><a href="#"><span> </span></a></li>
-				  <li class="instagram"><a href="#"><span> </span></a></li>	
-				  <li class="rss"><a href="#"><span> </span></a></li>							
-			   </ul>
-		    </div>
-		   <div class="clear"></div>
-		  </div>
-	     </div>
+	
 </body>
 </html>
