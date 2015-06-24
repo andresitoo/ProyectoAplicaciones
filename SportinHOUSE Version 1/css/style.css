@@ -1,3 +1,15 @@
+.menuprin {
+	display: block;
+	padding:10px 8px;
+	color: #fff;
+	font-size:45px;
+	text-transform:uppercase;
+	font-weight:100;
+	margin-right: 20px;
+	border:1px solid #72D0F4;
+}
+
+
 .clear{clear: both;}
 
 .bienvenido{
@@ -94,7 +106,7 @@ body a{
 }
 .header-arrow{
 	text-align:center;
-	padding:27% 0 5% 0;
+	padding:12.7% 0 5% 0;
 }
 .header-arrow a span {
 	width:209px;
@@ -1320,7 +1332,7 @@ h4.m_7 {
 }
 .copyright{
 	background:#00bff0;
-	padding:10px 0 2px;
+	padding:20px 0 20px;
 }
 .copy{
 	float:left;

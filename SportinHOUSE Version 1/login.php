@@ -36,7 +36,7 @@ session_start()
 	<div class="header">
 	   <div class="container">
 		  <div class="header-text">
-			<h4 class="title">Sporting House</h4>
+			<h4 class="title"><a href="indexprincipal.php"><img src="images/storelogin.png" alt=""/></a>Sporting House</h4>
             <form name="ingreso" action="php/validacionlogin.php" method="post">
            
 						  <fieldset class="input">
