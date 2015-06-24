@@ -7,7 +7,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Inventario</title>
+<title>Sporting House</title>
 <link href="../../css/bootstrap.css" rel='stylesheet' type='text/css' />
 <link href="../../css/style.css" rel='stylesheet' type='text/css' />
 <link rel="shortcut icon" href="../../images/store.ico" />
@@ -43,33 +43,39 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <body>
 
 	<!-- start menu -->
-    
     <div class="menu" id="menu">
 	  <div class="container">
 		 <div class="logo">
-			<a href="../Inventario/IndexInventario.html"><img src="../../images/store.png" alt=""/></a>
+			<a href="../seguridad/index.php"><img src="../../images/store.png" alt=""/></a>
 		 </div>
 		 <div class="h_menu4"><!-- start h_menu4 -->
 		   <a class="toggleMenu" href="#">Menu</a>
 			 <ul class="nav">
 			   <li class="active"><a href="#"> Inicio</a>
                		<ul>
-                        <li class="active"><a href="../../Cambio_Pasword.html"><img src="../../images/crear.png" alt=""/>Cambio de Contraseña</a></li>
-                        <li class="active"><a href="../../login.html"><img src="../../images/salir.png" alt=""/>Salir</a></li>
+                        <li class="active"><a href="2"><img src="../../images/ayuda.png" alt=""/>Ayuda</a></li>
+                        <li class="active"><a href="../../login.php"><img src="../../images/salir.png" alt=""/>Salir</a></li>
                     </ul>
                </li>
-                 
-                 <li class="active"><a href="#">Mantenimiento</a>
+                 <li class="active"><a href="#">Seguridad</a>
                		<ul>
-                    	<li class="active"><a href="1"><img src="../../images/transaccion.png" alt=""/>producto</a></li>
-     
+                    	<li class="active"><a href="1"><img src="../../images/usuario.png" alt=""/>Usuario</a></li>					
+                        <li class="active"><a href="3"><img src="../../images/rol.png" alt=""/>Rol</a></li>
+                       
+                        <li class="active"><a href="2"><img src="../../images/aplicacion.png" alt=""/>Aplicación</a></li>
+                        <li class="active"><a href="3"><img src="../../images/transaccion.png" alt=""/>Transacción</a></li>
+                          <li class="active"><a href="3"><img src="../../images/opcion.png" alt=""/>Opción</a></li>
+                          <li class="active"><a href="3"><img src="../../images/asignacion.png" alt=""/>Asignación de Permisos</a></li>
                     </ul>
                </li>
+                
                  <li class="active"><a href="#">Procesos</a>
                		<ul>
-                    	<li class="active"><a href="1"><img src="../../images/rol.png" alt=""/>Movimiento de Inventario</a></li>
-                        <li class="active"><a href="2"><img src="../../images/ingresar.png" alt=""/>Toma Física</a></li>
-                        <li class="active"><a href="3"><img src="../../images/Kardex.png" alt=""/>Kardex</a></li>
+                    	<li class="active"><a href="1">Asignación de Roles</a></li>
+                        <li class="active"><a href="2">Asignación de Aplicaciones</a></li>
+                        <li class="active"><a href="2">Asignación de Transaccioness</a></li>
+                        <li class="active"><a href="2">Asignación de Opciones</a></li>
+                        <li class="active"><a href="3">Cambio de Contraseña</a></li>
                     </ul>
                </li>
 			    <li class="active"><a href="#">Reportes</a>
@@ -79,7 +85,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <li class="active"><a href="3">opcion3</a></li>
                     </ul>
                </li>
-                 <li><a href="../../login.html">Log Out</a></li>
 			 </ul>
 			  <script type="text/javascript" src="../../js/nav.js"></script>
 		  </div><!-- end h_menu4 -->
@@ -89,11 +94,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	  </div>
 	</div>
 	<!-- end menu -->
-    
-    
-    
 
-				   <h3 class="bienvenido">Inventario !</h3>
+				   <h3 class="bienvenido">Bienvenido !</h3>
 				   <h3 class="parrafo">Sporting House brinda los mejores productos a todo su publico on line. </h3>
       
      <p>&nbsp;</p>
@@ -102,14 +104,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
      <div id="slider_container_2">
 
 				<div id="SliderName_2" class="SliderName_2">
-					<img src="../../images/Inventario_1.jpg" height="1400"  width="500" usemap="#img1map" title="Demo2 first" />
+					<img src="../../images/home_01.jpg" height="1400"  width="500" usemap="#img1map" title="Demo2 first" />
 				
 					
-					<img src="../../images/Inventario_2.jpg" width="1400" height="500" alt="Demo2 second" title="Demo2 second" />
+					<img src="../../images/home_02.jpg" width="1400" height="500" alt="Demo2 second" title="Demo2 second" />
 					
-					<img src="../../images/Inventario_3.jpg" width="1400" height="500" alt="Demo2 third" title="Demo2 third" />
+					<img src="../../images/home_03.jpg" width="1400" height="500" alt="Demo2 third" title="Demo2 third" />
 					
-					<img src="../../images/Inventario_4.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
+					<img src="../../images/home_04.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
 					
 	   </div>
                 
@@ -205,7 +207,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 	       <div class="clear"></div>
 	      </div>
 	     </div>
-		
 	    <!--<div class="map">
 			<iframe width="100%" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=United+Kingdom&amp;aq=0&amp;oq=un&amp;sll=37.0625,-95.677068&amp;sspn=48.956293,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=United+Kingdom&amp;ll=55.378051,-3.435973&amp;spn=135.795411,68.554687&amp;t=m&amp;z=2&amp;output=embed"> </iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=United+Kingdom&amp;aq=0&amp;oq=un&amp;sll=37.0625,-95.677068&amp;sspn=48.956293,107.138672&amp;ie=UTF8&amp;hq=&amp;hnear=United+Kingdom&amp;ll=55.378051,-3.435973&amp;spn=135.795411,68.554687&amp;t=m&amp;z=2" style="color:#666;font-size:12px;text-align:left"> </a></small>
 			<div class="opening_hours">

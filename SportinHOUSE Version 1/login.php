@@ -1,3 +1,7 @@
+<?php
+session_start()
+?>
+
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -25,7 +29,6 @@
 
 <script type="text/javascript" src="js/jquery.contentcarousel.js"></script>
 <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
-<script type="text/javascript" src="js/validacion.js"></script>
 <!-- //grid-slider -->
 </head>
 <body>
@@ -34,16 +37,16 @@
 	   <div class="container">
 		  <div class="header-text">
 			<h4 class="title">Sporting House</h4>
-            <form name="ingreso" onsubmit="return validacions(this)" method="post">
+            <form name="ingreso" action="php/validacionlogin.php" method="post">
            
 						  <fieldset class="input">
 						    <p id="login-form-username">
 						      <label for="modlgn_username">User</label>
-						      <input id="modlgn_username" type="text" name="usuario" class="inputbox" size="18" autocomplete="off">
+						      <input id="usuario" type="text" name="usuario" class="inputbox" size="18" autocomplete="off">
 						    </p>
 						    <p id="login-form-password">
 						      <label for="modlgn_passwd">Password</label>
-						      <input id="modlgn_passwd" type="password" name="password" class="inputbox" size="18" autocomplete="off">
+						      <input id="pass" type="password" name="pass" class="inputbox" size="18" autocomplete="off">
 						    </p>
 						    <div class="remember">
 							    <p id="login-form-remember">
