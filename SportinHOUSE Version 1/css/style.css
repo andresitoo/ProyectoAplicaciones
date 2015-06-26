@@ -1,3 +1,41 @@
+.formulariomantenimiento{
+	padding:0 370px ;
+	}
+
+.labelmantenimiento{
+	color: #06F;
+	font-size:20px;
+}
+.boxmantenimiento {
+	background: #FFF;
+	outline-color: #00BFF0;
+	border: 1px solid #EEE;
+	color:#06F ;
+	padding: 7px 10px;
+	height:35px;
+	width: 200px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+	
+}
+.estilobutton{	
+	width: 130px;
+	height:50px;
+	color: #06F;
+	border-color:#06F;
+	background: #FFF;
+	float:right;	
+}
+.estilobutton2{	
+	width: 35px;
+	height:30px;
+	color: #06F;
+	border-color:#06F;
+	background: #FFF;
+	float:inherit;
+	
+}
+
 .menuprin {
 	display: block;
 	padding:10px 8px;
@@ -1770,6 +1808,8 @@ p.right_text2 {
 }
 .buttons_login{
 	padding-top:7%;
+	
+	
 }
 .p-ww{
 	float:left;
@@ -3420,7 +3460,7 @@ input.inputbox, input.required, div.k2AccountPage input[type="text"] {
 	outline-color: #00BFF0;
 	border: 1px solid #EEE;
 	color:#06F ;
-	padding: 7px 20px;
+	padding: 7px 10px;
 	width: 100%;
 	font-family: 'Open Sans', sans-serif;
 	font-size: 20px;

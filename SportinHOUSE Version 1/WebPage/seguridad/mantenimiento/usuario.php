@@ -59,29 +59,30 @@
 	</div>
       <p>&nbsp;</p>
       <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-      <p>&nbsp;</p>
-     
-      <div class="menu" id="menu">
-	  <div class="container"> 
-      <div class="h_menu4"><!-- start h_menu4 -->
-		   <a class="toggleMenu" href="#">Menu</a>
-			 <ul class="nav">
-       <li class="opcionespantalla"><a href="1"><img src="../../../images/guardar.png" alt=""/> Guardar</a></li>
-       
-       </ul>
-			  <script type="text/javascript" src="../../../js/nav.js"></script>
-		  </div><!-- end h_menu4 -->
-        </div>
+      
+<form class="formulariomantenimiento" name="ingreso" action="../../../loginpass.php" method="post">
+           
+  <fieldset class="input">
+						    <p id="login-form-username">
+                            <label for="modlgn_username" class="labelmantenimiento">Empleado:</label>
+                            <input id="usuario" type="text" name="empleado" class="boxmantenimiento" size="18" autocomplete="off">
+                            <button class="estilobutton2">
+                             <img title="cdlibre.org" src="../../../images/busqueda.png" width="20" height="20" />
+                            </button> 
+                            <br><br>							    
+                            <label for="modlgn_username" class="labelmantenimiento">Usuario:</label>
+						    <input id="usuario" type="text" name="usuario" class="boxmantenimiento" size="18" autocomplete="off">
+                            <br><br>							    
+                            <label for="modlgn_username" class="labelmantenimiento">Contraseña:</label>
+						    <input id="usuario" type="text" name="contraseña" class="boxmantenimiento" size="18" autocomplete="off">
+   <br><br>	
+                            <button class="estilobutton">
+                              <img title="cdlibre.org" src="../../../images/guardar.png" width="45" height="45" />
+                              Guardar
+                            </button>                             
+                            </fieldset>
+						 </form>
+    
 </div>
 </body>
 </html>
