@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<title>Mantenimiento de Usuario</title>
+<title>Mantenimiento de Transacción</title>
 <link href="../../../css/bootstrap.css" rel='stylesheet' type='text/css' />
 <link href="../../../css/style.css" rel='stylesheet' type='text/css' />
 <link rel="shortcut icon" href="../../../images/store.ico" />
@@ -64,18 +64,15 @@
            
   <fieldset class="input">
 						    <p id="login-form-username">
-                            <label for="modlgn_username" class="labelmantenimiento">Empleado:</label>
-                            <input id="usuario" type="text" name="empleado" class="boxmantenimiento" size="18" autocomplete="off">
+                            <label for="modlgn_username" class="labelmantenimiento">Código:</label>
+                            <input id="codigo" type="text" name="codigo" class="boxmantenimiento" size="18" autocomplete="off">
                             <button class="estilobutton2">
                              <img title="cdlibre.org" src="../../../images/busqueda.png" width="20" height="20" />
                             </button> 
                             <br><br>							    
-                            <label for="modlgn_username" class="labelmantenimiento">Usuario:</label>
-						    <input id="usuario" type="text" name="usuario" class="boxmantenimiento" size="18" autocomplete="off">
+                            <label for="modlgn_username" class="labelmantenimiento">Descripción:</label>
+						    <input id="descripcion" type="text" name="descripcion" class="boxmantenimiento" size="18" autocomplete="off">
                             <br><br>							    
-                            <label for="modlgn_username" class="labelmantenimiento">Contraseña:</label>
-						    <input id="usuario" type="text" name="contraseña" class="boxmantenimiento" size="18" autocomplete="off">
-   <br><br>	
                             <button class="estilobutton">
                               <img title="cdlibre.org" src="../../../images/guardar.png" width="45" height="45" />
                               Guardar

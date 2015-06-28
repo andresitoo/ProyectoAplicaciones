@@ -60,11 +60,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                  <li class="active"><a href="#">Mantenimiento</a>
                		<ul>
                     	<li class="active"><a href="mantenimiento/usuario.php"><img src="../../images/usuario.png" alt=""/>Usuario</a></li>					
-                        <li class="active"><a href="3"><img src="../../images/rol.png" alt=""/>Rol</a></li>
+                        <li class="active"><a href="mantenimiento/rol.php"><img src="../../images/rol.png" alt=""/>Rol</a></li>
                        
-                        <li class="active"><a href="2"><img src="../../images/aplicacion.png" alt=""/>Aplicación</a></li>
-                        <li class="active"><a href="3"><img src="../../images/transaccion.png" alt=""/>Transacción</a></li>
-                          <li class="active"><a href="3"><img src="../../images/opcion.png" alt=""/>Opción</a></li>
+                        <li class="active"><a href="mantenimiento/aplicacion.php"><img src="../../images/aplicacion.png" alt=""/>Aplicación</a></li>
+                        <li class="active"><a href="mantenimiento/transaccion.php"><img src="../../images/transaccion.png" alt=""/>Transacción</a></li>
+                          <li class="active"><a href="mantenimiento/opcion.php"><img src="../../images/opcion.png" alt=""/>Opción</a></li>
                           
                     </ul>
                </li>
