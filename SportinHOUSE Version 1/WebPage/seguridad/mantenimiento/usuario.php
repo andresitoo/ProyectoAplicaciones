@@ -60,11 +60,11 @@
       <p>&nbsp;</p>
       <p>&nbsp;</p>
       
-<form class="formulariomantenimiento" name="ingreso" action="../../../loginpass.php" method="post">
+<form class="formulariomantenimiento" name="ingreso" action="../objetos/insertarUsuario.php" method="post">
            
   <fieldset class="input">
 						    <p id="login-form-username">
-                            <label for="modlgn_username" class="labelmantenimiento">Empleado:</label>
+                           <label for="modlgn_username" class="labelmantenimiento">Empleado:</label>
                             <input id="usuario" type="text" name="empleado" class="boxmantenimiento" size="18" autocomplete="off">
                             <button class="estilobutton2">
                              <img title="cdlibre.org" src="../../../images/busqueda.png" width="20" height="20" />

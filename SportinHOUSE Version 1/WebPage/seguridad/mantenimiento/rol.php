@@ -60,7 +60,7 @@
       <p>&nbsp;</p>
       <p>&nbsp;</p>
       
-<form class="formulariomantenimiento" name="ingreso" action="../../../loginpass.php" method="post">
+<form class="formulariomantenimiento" name="ingreso" action="../objetos/insertarRol.php"  method="post">
            
   <fieldset class="input">
 						    <p id="login-form-username">

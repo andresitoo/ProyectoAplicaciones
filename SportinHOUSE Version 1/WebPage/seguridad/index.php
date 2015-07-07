@@ -54,7 +54,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 			   <li class="active"><a href="#"> Inicio</a>
                		<ul>
                         <li class="active"><a href="2"><img src="../../images/ayuda.png" alt=""/>Ayuda</a></li>
-                        <li class="active"><a href="../../indexprincipal.php"><img src="../../images/salir.png" alt=""/>Salir</a></li>
+                        <li class="active"><a href="../../sesiones/indexprincipal.php"><img src="../../images/salir.png" alt=""/>Salir</a></li>
                     </ul>
                </li>
                  <li class="active"><a href="#">Mantenimiento</a>

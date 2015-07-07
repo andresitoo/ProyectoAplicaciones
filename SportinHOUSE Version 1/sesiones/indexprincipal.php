@@ -2,22 +2,22 @@
 <html>
 <head>
 <title>Sporting House</title>
-<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-<link href="css/style.css" rel='stylesheet' type='text/css' />
-<link rel="shortcut icon" href="images/store.ico" />
+<link href="../css/bootstrap.css" rel='stylesheet' type='text/css' />
+<link href="../css/style.css" rel='stylesheet' type='text/css' />
+<link rel="shortcut icon" href="../images/store.ico" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta http-equiv="imagetoolbar" content="no" />
 	<meta name="keywords" content="slideman, sliderman.js, javascript slider, jquery, slideshow, effects" />
 	<meta name="description" content="Sliderman.js - will do all the sliding for you :)" />
 
-<script type="text/javascript" src="js/sliderman.1.3.8.js"></script>
-	<link rel="stylesheet" type="text/css" href="css/sliderman.css" />
+<script type="text/javascript" src="../js/sliderman.1.3.8.js"></script>
+	<link rel="stylesheet" type="text/css" href="../css/sliderman.css" />
 <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet' type='text/css'>
 <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700' rel='stylesheet' type='text/css'>
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-<!--<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />-->
-<script src="js/jquery.min.js"></script>
+
+<script src="../js/jquery.min.js"></script>
 
 <script type="text/javascript">
 		jQuery(document).ready(function($) {
@@ -28,9 +28,9 @@
 		});
 	</script>
 <!-- grid-slider -->
-<script type="text/javascript" src="js/jquery.mousewheel.js"></script>
-<script type="text/javascript" src="js/jquery.contentcarousel.js"></script>
-<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="../js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="../js/jquery.contentcarousel.js"></script>
+<script type="text/javascript" src="../js/jquery.easing.1.3.js"></script>
 <!-- //grid-slider -->
 
 </head>
@@ -40,18 +40,18 @@
     <div class="menu" id="menu">
 	  <div class="container">
 		 <div class="logo">
-			<img src="images/store.png" alt=""/>
+			<img src="../images/store.png" alt=""/>
 		 </div>
 		 <div class="h_menu4"><!-- start h_menu4 -->
 		   <a class="toggleMenu" href="#">Menu</a>
 			 <ul class="nav">
              
-             <li class="menuprin"><a href="webpage/seguridad/index.php"> Seguridad</a></li>
-                 <li class="menuprin"><a href="webpage/inventario/index.php">Inventario</a></li>
+             <li class="menuprin"><a href="../webpage/seguridad/index.php"> Seguridad</a></li>
+                 <li class="menuprin"><a href="../webpage/inventario/index.php">Inventario</a></li>
                  <li class="menuprin"><a href="loginusuario.php">Salir</a></li>
       
 			 </ul>
-			  <script type="text/javascript" src="js/nav.js"></script>
+			  <script type="text/javascript" src="../js/nav.js"></script>
 		  </div><!-- end h_menu4 -->
           
           
@@ -69,16 +69,16 @@
      <div id="slider_container_2">
 
 				<div id="SliderName_2" class="SliderName_2">
-					<img src="images/ima1.jpg" height="1400"  width="500" usemap="#img1map" title="Demo2 first" />
+					<img src="../images/ima1.jpg" height="1400"  width="500" usemap="#img1map" title="Demo2 first" />
 				
 					
-					<img src="images/ima2.jpg" width="1400" height="500" alt="Demo2 second" title="Demo2 second" />
+					<img src="../images/ima2.jpg" width="1400" height="500" alt="Demo2 second" title="Demo2 second" />
 					
-					<img src="images/ima3.jpg" width="1400" height="500" alt="Demo2 third" title="Demo2 third" />
+					<img src="../images/ima3.jpg" width="1400" height="500" alt="Demo2 third" title="Demo2 third" />
 					
-					<img src="images/ima4.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
+					<img src="../images/ima4.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
                     
-                    <img src="images/ima5.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
+                    <img src="../images/ima5.jpg" width="1400" height="500" alt="Demo2 fourth" title="Demo2 fourth" />
 					
 	   </div>
                 
@@ -163,10 +163,10 @@
 		   <div class="col-md-4">
 		   	 <h3 class="m_2">Partner</h3>
 			  <ul class="partner">
-			  	<li><img src="images/p6.png" alt=""/></li>
-			  	<li><img src="images/p5.png" alt=""/></li>
-			  	<li><img src="images/p4.png" alt=""/></li>
-			  	<li><img src="images/p3.png" alt=""/></li>
+			  	<li><img src="../images/p6.png" alt=""/></li>
+			  	<li><img src="../images/p5.png" alt=""/></li>
+			  	<li><img src="../images/p4.png" alt=""/></li>
+			  	<li><img src="../images/p3.png" alt=""/></li>
 			  	
 			  	 <div class="clear"></div>
 			  </ul>
