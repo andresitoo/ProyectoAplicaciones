@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SAV_DevolucionesStoreContainer" CdmEntityContainer="DBSAVDevolucion">
+    <EntitySetMapping Name="FC_M_EMPLEADO">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.FC_M_EMPLEADO">
+        <MappingFragment StoreEntitySet="FC_M_EMPLEADO">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="apellido" ColumnName="apellido" />
+          <ScalarProperty Name="cedula" ColumnName="cedula" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="cargo" ColumnName="cargo" />
+          <ScalarProperty Name="fecha_nacimiento" ColumnName="fecha_nacimiento" />
+          <ScalarProperty Name="fecha_ingreso" ColumnName="fecha_ingreso" />
+          <ScalarProperty Name="estado" ColumnName="estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FC_T_CABECERA_FACTURA">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.FC_T_CABECERA_FACTURA">
+        <MappingFragment StoreEntitySet="FC_T_CABECERA_FACTURA">
+          <ScalarProperty Name="Codigo_Factura" ColumnName="Codigo_Factura" />
+          <ScalarProperty Name="Codigo_Empresa" ColumnName="Codigo_Empresa" />
+          <ScalarProperty Name="Codigo_Forma_Pago" ColumnName="Codigo_Forma_Pago" />
+          <ScalarProperty Name="Codigo_Empleado" ColumnName="Codigo_Empleado" />
+          <ScalarProperty Name="Codigo_Cliente" ColumnName="Codigo_Cliente" />
+          <ScalarProperty Name="Fecha_Factura" ColumnName="Fecha_Factura" />
+          <ScalarProperty Name="Subtotal_Factura" ColumnName="Subtotal_Factura" />
+          <ScalarProperty Name="Iva_Factura" ColumnName="Iva_Factura" />
+          <ScalarProperty Name="Total_Factura" ColumnName="Total_Factura" />
+          <ScalarProperty Name="Estado_Factura" ColumnName="Estado_Factura" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FC_T_CABECERADEVOLUCION">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.FC_T_CABECERADEVOLUCION">
+        <MappingFragment StoreEntitySet="FC_T_CABECERADEVOLUCION">
+          <ScalarProperty Name="Codigo_Devolucion" ColumnName="Codigo_Devolucion" />
+          <ScalarProperty Name="Codigo_Factura" ColumnName="Codigo_Factura" />
+          <ScalarProperty Name="Codigo_empleado" ColumnName="Codigo_empleado" />
+          <ScalarProperty Name="Codigo_Cliente" ColumnName="Codigo_Cliente" />
+          <ScalarProperty Name="Fecha_Devolucion" ColumnName="Fecha_Devolucion" />
+          <ScalarProperty Name="Descuento_Devolucion" ColumnName="Descuento_Devolucion" />
+          <ScalarProperty Name="Total_Devolucion" ColumnName="Total_Devolucion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FC_T_DETALLE_PRODUCTO">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.FC_T_DETALLE_PRODUCTO">
+        <MappingFragment StoreEntitySet="FC_T_DETALLE_PRODUCTO">
+          <ScalarProperty Name="numero_factura" ColumnName="numero_factura" />
+          <ScalarProperty Name="secuencial" ColumnName="secuencial" />
+          <ScalarProperty Name="cod_producto" ColumnName="cod_producto" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="subtotal" ColumnName="subtotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="FC_T_DETALLEDEVOLUCION">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.FC_T_DETALLEDEVOLUCION">
+        <MappingFragment StoreEntitySet="FC_T_DETALLEDEVOLUCION">
+          <ScalarProperty Name="Linea_DetalleDevolucion" ColumnName="Linea_DetalleDevolucion" />
+          <ScalarProperty Name="Codigo_Devolucion" ColumnName="Codigo_Devolucion" />
+          <ScalarProperty Name="Codigo_Producto" ColumnName="Codigo_Producto" />
+          <ScalarProperty Name="Codigo_Empresa" ColumnName="Codigo_Empresa" />
+          <ScalarProperty Name="Observacion_Devolucion" ColumnName="Observacion_Devolucion" />
+          <ScalarProperty Name="Cantidad_Devolucion" ColumnName="Cantidad_Devolucion" />
+          <ScalarProperty Name="Precio_ProductoDevolucion" ColumnName="Precio_ProductoDevolucion" />
+          <ScalarProperty Name="Subtotal_DetalleDevolucion" ColumnName="Subtotal_DetalleDevolucion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IN_M_PRODUCTO">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.IN_M_PRODUCTO">
+        <MappingFragment StoreEntitySet="IN_M_PRODUCTO">
+          <ScalarProperty Name="Codigo_Producto" ColumnName="Codigo_Producto" />
+          <ScalarProperty Name="Descripcion_Producto" ColumnName="Descripcion_Producto" />
+          <ScalarProperty Name="Tipo_Producto" ColumnName="Tipo_Producto" />
+          <ScalarProperty Name="Medida" ColumnName="Medida" />
+          <ScalarProperty Name="Bodega" ColumnName="Bodega" />
+          <ScalarProperty Name="Percha" ColumnName="Percha" />
+          <ScalarProperty Name="Existencia_Actual" ColumnName="Existencia_Actual" />
+          <ScalarProperty Name="Stock_Minimo" ColumnName="Stock_Minimo" />
+          <ScalarProperty Name="Stock_Maximo" ColumnName="Stock_Maximo" />
+          <ScalarProperty Name="Costo" ColumnName="Costo" />
+          <ScalarProperty Name="Precio" ColumnName="Precio" />
+          <ScalarProperty Name="Estado" ColumnName="Estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RH_M_CLIENTE">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.RH_M_CLIENTE">
+        <MappingFragment StoreEntitySet="RH_M_CLIENTE">
+          <ScalarProperty Name="Codigo_Cliente" ColumnName="Codigo_Cliente" />
+          <ScalarProperty Name="RUC_Cliente" ColumnName="RUC_Cliente" />
+          <ScalarProperty Name="Cedula_Cliente" ColumnName="Cedula_Cliente" />
+          <ScalarProperty Name="RazonSocial_Cliente" ColumnName="RazonSocial_Cliente" />
+          <ScalarProperty Name="Nombre_Cliente" ColumnName="Nombre_Cliente" />
+          <ScalarProperty Name="Apellido_Cliente" ColumnName="Apellido_Cliente" />
+          <ScalarProperty Name="Direccion_Cliente" ColumnName="Direccion_Cliente" />
+          <ScalarProperty Name="Telefono_Cliente" ColumnName="Telefono_Cliente" />
+          <ScalarProperty Name="Genero_Cliente" ColumnName="Genero_Cliente" />
+          <ScalarProperty Name="Estado_Cliente" ColumnName="Estado_Cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RH_M_DIRECCION">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.RH_M_DIRECCION">
+        <MappingFragment StoreEntitySet="RH_M_DIRECCION">
+          <ScalarProperty Name="Secuencial_Direccion" ColumnName="Secuencial_Direccion" />
+          <ScalarProperty Name="Codigo_Empleado" ColumnName="Codigo_Empleado" />
+          <ScalarProperty Name="Codigo_Proveedor" ColumnName="Codigo_Proveedor" />
+          <ScalarProperty Name="Codigo_Cliente" ColumnName="Codigo_Cliente" />
+          <ScalarProperty Name="Codigo_Empresa" ColumnName="Codigo_Empresa" />
+          <ScalarProperty Name="Codigo_Tipo_Direccion" ColumnName="Codigo_Tipo_Direccion" />
+          <ScalarProperty Name="Numero_Parroquia" ColumnName="Numero_Parroquia" />
+          <ScalarProperty Name="Calle_Principal" ColumnName="Calle_Principal" />
+          <ScalarProperty Name="Numeracion" ColumnName="Numeracion" />
+          <ScalarProperty Name="Calle_Secundaria" ColumnName="Calle_Secundaria" />
+          <ScalarProperty Name="Descripcion" ColumnName="Descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RH_M_TELEFONO">
+      <EntityTypeMapping TypeName="SAV_Devoluciones.RH_M_TELEFONO">
+        <MappingFragment StoreEntitySet="RH_M_TELEFONO">
+          <ScalarProperty Name="Secuencial_Telefono" ColumnName="Secuencial_Telefono" />
+          <ScalarProperty Name="Codigo_Provincia" ColumnName="Codigo_Provincia" />
+          <ScalarProperty Name="Codigo_TipoTelefono" ColumnName="Codigo_TipoTelefono" />
+          <ScalarProperty Name="Codigo_Empleado" ColumnName="Codigo_Empleado" />
+          <ScalarProperty Name="Codigo_Cliente" ColumnName="Codigo_Cliente" />
+          <ScalarProperty Name="Codigo_Empresa" ColumnName="Codigo_Empresa" />
+          <ScalarProperty Name="Codigo_Proveedor" ColumnName="Codigo_Proveedor" />
+          <ScalarProperty Name="Numero_Telefono" ColumnName="Numero_Telefono" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

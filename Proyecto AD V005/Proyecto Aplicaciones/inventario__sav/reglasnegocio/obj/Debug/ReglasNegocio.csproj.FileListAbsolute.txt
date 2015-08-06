@@ -1,0 +1,90 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\ReglasNegocio\obj\Debug\ReglasNegocio.pdb

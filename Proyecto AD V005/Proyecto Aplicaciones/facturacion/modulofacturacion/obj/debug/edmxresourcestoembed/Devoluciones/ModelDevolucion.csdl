@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SAVModel" Alias="Self" p1:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:p1="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="DBSAVDevolucion" p1:LazyLoadingEnabled="true">
+    <EntitySet Name="FC_M_EMPLEADO" EntityType="SAVModel.FC_M_EMPLEADO" />
+    <EntitySet Name="FC_T_CABECERADEVOLUCION" EntityType="SAVModel.FC_T_CABECERADEVOLUCION" />
+    <EntitySet Name="FC_T_DETALLE_PRODUCTO" EntityType="SAVModel.FC_T_DETALLE_PRODUCTO" />
+    <EntitySet Name="FC_T_DETALLEDEVOLUCION" EntityType="SAVModel.FC_T_DETALLEDEVOLUCION" />
+    <EntitySet Name="RH_M_CLIENTE" EntityType="SAVModel.RH_M_CLIENTE" />
+    <EntitySet Name="RH_M_DIRECCION" EntityType="SAVModel.RH_M_DIRECCION" />
+    <EntitySet Name="RH_M_TELEFONO" EntityType="SAVModel.RH_M_TELEFONO" />
+    <AssociationSet Name="FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE" Association="SAVModel.FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="FC_T_CABECERADEVOLUCION" EntitySet="FC_T_CABECERADEVOLUCION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION" Association="SAVModel.FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION">
+      <End EntitySet="FC_T_CABECERADEVOLUCION" Role="FC_T_CABECERADEVOLUCION" />
+      <End EntitySet="FC_T_DETALLEDEVOLUCION" Role="FC_T_DETALLEDEVOLUCION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RH_M_DIRECCION_RH_M_CLIENTE" Association="SAVModel.FK_RH_M_DIRECCION_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="RH_M_DIRECCION" EntitySet="RH_M_DIRECCION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RH_M_TELEFONO_RH_M_CLIENTE" Association="SAVModel.FK_RH_M_TELEFONO_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="RH_M_TELEFONO" EntitySet="RH_M_TELEFONO" />
+    </AssociationSet>
+    <EntitySet Name="FC_T_CABECERA_FACTURA" EntityType="SAVModel.FC_T_CABECERA_FACTURA" />
+    <AssociationSet Name="FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE" Association="SAVModel.FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="FC_T_CABECERA_FACTURA" EntitySet="FC_T_CABECERA_FACTURA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA" Association="SAVModel.FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA">
+      <End Role="FC_T_CABECERA_FACTURA" EntitySet="FC_T_CABECERA_FACTURA" />
+      <End Role="FC_T_CABECERADEVOLUCION" EntitySet="FC_T_CABECERADEVOLUCION" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="FC_M_EMPLEADO">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Type="Decimal" Name="codigo" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="String" Name="nombre" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="apellido" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="cedula" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="telefono" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="direccion" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="cargo" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="DateTime" Name="fecha_nacimiento" Precision="0" />
+    <Property Type="DateTime" Name="fecha_ingreso" Precision="0" />
+    <Property Type="String" Name="estado" MaxLength="1" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="FC_T_CABECERADEVOLUCION">
+    <Key>
+      <PropertyRef Name="Codigo_Devolucion" />
+    </Key>
+    <Property Type="Decimal" Name="Codigo_Devolucion" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Factura" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Cliente" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empleado" Precision="4" Scale="0" />
+    <Property Type="DateTime" Name="Fecha_Devolucion" Precision="0" />
+    <Property Type="Decimal" Name="Iva_Devolucion" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="Descuento_Devolucion" Precision="19" Scale="4" />
+    <Property Type="String" Name="Total_Devolucion" MaxLength="10" FixedLength="true" Unicode="true" />
+    <NavigationProperty Name="RH_M_CLIENTE" Relationship="SAVModel.FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE" FromRole="FC_T_CABECERADEVOLUCION" ToRole="RH_M_CLIENTE" />
+    <NavigationProperty Name="FC_T_DETALLEDEVOLUCION" Relationship="SAVModel.FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION" FromRole="FC_T_CABECERADEVOLUCION" ToRole="FC_T_DETALLEDEVOLUCION" />
+    <NavigationProperty Name="FC_T_CABECERA_FACTURA" Relationship="SAVModel.FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA" FromRole="FC_T_CABECERADEVOLUCION" ToRole="FC_T_CABECERA_FACTURA" />
+  </EntityType>
+  <EntityType Name="FC_T_DETALLE_PRODUCTO">
+    <Key>
+      <PropertyRef Name="numero_factura" />
+      <PropertyRef Name="secuencial" />
+    </Key>
+    <Property Type="Decimal" Name="numero_factura" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="secuencial" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="cod_producto" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="cantidad" Precision="4" Scale="0" />
+    <Property Type="String" Name="subtotal" MaxLength="6" FixedLength="true" Unicode="false" />
+  </EntityType>
+  <EntityType Name="FC_T_DETALLEDEVOLUCION">
+    <Key>
+      <PropertyRef Name="Linea_DetalleDevolucion" />
+      <PropertyRef Name="Codigo_Devolucion" />
+    </Key>
+    <Property Type="Decimal" Name="Linea_DetalleDevolucion" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Devolucion" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Producto" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empresa" Precision="4" Scale="0" />
+    <Property Type="String" Name="Observacion_Devolucion" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Cantidad_Devolucion" Precision="2" Scale="0" />
+    <Property Type="Decimal" Name="Precio_ProductoDevolucion" Precision="19" Scale="4" />
+    <Property Type="Decimal" Name="Subtotal_DetalleDevolucion" Precision="19" Scale="4" />
+    <NavigationProperty Name="FC_T_CABECERADEVOLUCION" Relationship="SAVModel.FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION" FromRole="FC_T_DETALLEDEVOLUCION" ToRole="FC_T_CABECERADEVOLUCION" />
+  </EntityType>
+  <EntityType Name="RH_M_CLIENTE">
+    <Key>
+      <PropertyRef Name="Codigo_Cliente" />
+    </Key>
+    <Property Type="Decimal" Name="Codigo_Cliente" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="RUC_Cliente" Nullable="false" Precision="13" Scale="0" />
+    <Property Type="Decimal" Name="Cedula_Cliente" Nullable="false" Precision="10" Scale="0" />
+    <Property Type="String" Name="RazonSocial_Cliente" Nullable="false" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Nombre_Cliente" Nullable="false" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Apellido_Cliente" Nullable="false" MaxLength="40" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Direccion_Cliente" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Telefono_Cliente" Nullable="false" Precision="10" Scale="0" />
+    <Property Type="String" Name="Genero_Cliente" Nullable="false" MaxLength="1" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="Estado_Cliente" Nullable="false" MaxLength="1" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="FC_T_CABECERADEVOLUCION" Relationship="SAVModel.FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE" FromRole="RH_M_CLIENTE" ToRole="FC_T_CABECERADEVOLUCION" />
+    <NavigationProperty Name="RH_M_DIRECCION" Relationship="SAVModel.FK_RH_M_DIRECCION_RH_M_CLIENTE" FromRole="RH_M_CLIENTE" ToRole="RH_M_DIRECCION" />
+    <NavigationProperty Name="RH_M_TELEFONO" Relationship="SAVModel.FK_RH_M_TELEFONO_RH_M_CLIENTE" FromRole="RH_M_CLIENTE" ToRole="RH_M_TELEFONO" />
+    <NavigationProperty Name="FC_T_CABECERA_FACTURA" Relationship="SAVModel.FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE" FromRole="RH_M_CLIENTE" ToRole="FC_T_CABECERA_FACTURA" />
+  </EntityType>
+  <EntityType Name="RH_M_DIRECCION">
+    <Key>
+      <PropertyRef Name="Secuencial_Direccion" />
+    </Key>
+    <Property Type="Decimal" Name="Secuencial_Direccion" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empleado" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Proveedor" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Cliente" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empresa" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Tipo_Direccion" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Numero_Parroquia" Precision="4" Scale="0" />
+    <Property Type="String" Name="Calle_Principal" Nullable="false" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="Decimal" Name="Numeracion" Precision="3" Scale="0" />
+    <Property Type="String" Name="Calle_Secundaria" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Type="String" Name="Descripcion" MaxLength="70" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="RH_M_CLIENTE" Relationship="SAVModel.FK_RH_M_DIRECCION_RH_M_CLIENTE" FromRole="RH_M_DIRECCION" ToRole="RH_M_CLIENTE" />
+  </EntityType>
+  <EntityType Name="RH_M_TELEFONO">
+    <Key>
+      <PropertyRef Name="Secuencial_Telefono" />
+    </Key>
+    <Property Type="Decimal" Name="Secuencial_Telefono" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Provincia" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_TipoTelefono" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empleado" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Cliente" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empresa" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Proveedor" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Numero_Telefono" Precision="6" Scale="0" />
+    <NavigationProperty Name="RH_M_CLIENTE" Relationship="SAVModel.FK_RH_M_TELEFONO_RH_M_CLIENTE" FromRole="RH_M_TELEFONO" ToRole="RH_M_CLIENTE" />
+  </EntityType>
+  <Association Name="FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE">
+    <End Type="SAVModel.RH_M_CLIENTE" Role="RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Type="SAVModel.FC_T_CABECERADEVOLUCION" Role="FC_T_CABECERADEVOLUCION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="FC_T_CABECERADEVOLUCION">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION">
+    <End Type="SAVModel.FC_T_CABECERADEVOLUCION" Multiplicity="1" Role="FC_T_CABECERADEVOLUCION" />
+    <End Type="SAVModel.FC_T_DETALLEDEVOLUCION" Multiplicity="*" Role="FC_T_DETALLEDEVOLUCION" />
+    <ReferentialConstraint>
+      <Principal Role="FC_T_CABECERADEVOLUCION">
+        <PropertyRef Name="Codigo_Devolucion" />
+      </Principal>
+      <Dependent Role="FC_T_DETALLEDEVOLUCION">
+        <PropertyRef Name="Codigo_Devolucion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RH_M_DIRECCION_RH_M_CLIENTE">
+    <End Type="SAVModel.RH_M_CLIENTE" Role="RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Type="SAVModel.RH_M_DIRECCION" Role="RH_M_DIRECCION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="RH_M_DIRECCION">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RH_M_TELEFONO_RH_M_CLIENTE">
+    <End Type="SAVModel.RH_M_CLIENTE" Role="RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Type="SAVModel.RH_M_TELEFONO" Role="RH_M_TELEFONO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="RH_M_TELEFONO">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="FC_T_CABECERA_FACTURA">
+    <Key>
+      <PropertyRef Name="Codigo_Factura" />
+    </Key>
+    <Property Type="Decimal" Name="Codigo_Factura" Nullable="false" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empresa" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Forma_Pago" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Empleado" Precision="4" Scale="0" />
+    <Property Type="Decimal" Name="Codigo_Cliente" Precision="4" Scale="0" />
+    <Property Type="DateTime" Name="Fecha_Factura" Precision="0" />
+    <Property Type="String" Name="Subtotal_Factura" MaxLength="6" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="Iva_Factura" MaxLength="6" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="Total_Factura" MaxLength="6" FixedLength="true" Unicode="false" />
+    <Property Type="String" Name="Estado_Factura" MaxLength="1" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="RH_M_CLIENTE" Relationship="SAVModel.FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE" FromRole="FC_T_CABECERA_FACTURA" ToRole="RH_M_CLIENTE" />
+    <NavigationProperty Name="FC_T_CABECERADEVOLUCION" Relationship="SAVModel.FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA" FromRole="FC_T_CABECERA_FACTURA" ToRole="FC_T_CABECERADEVOLUCION" />
+  </EntityType>
+  <Association Name="FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE">
+    <End Type="SAVModel.RH_M_CLIENTE" Role="RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Type="SAVModel.FC_T_CABECERA_FACTURA" Role="FC_T_CABECERA_FACTURA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="FC_T_CABECERA_FACTURA">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA">
+    <End Type="SAVModel.FC_T_CABECERA_FACTURA" Role="FC_T_CABECERA_FACTURA" Multiplicity="1" />
+    <End Type="SAVModel.FC_T_CABECERADEVOLUCION" Role="FC_T_CABECERADEVOLUCION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FC_T_CABECERA_FACTURA">
+        <PropertyRef Name="Codigo_Factura" />
+      </Principal>
+      <Dependent Role="FC_T_CABECERADEVOLUCION">
+        <PropertyRef Name="Codigo_Factura" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

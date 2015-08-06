@@ -1,0 +1,412 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\Forms.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\Entity.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\Datos.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.exe
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Forms\bin\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Forms.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Forms.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Forms.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\DEBSAccesoSQL.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoNombreProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaKardexProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaPercha.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ConsultaTipoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmMantMedida.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmTipoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmConceptoMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmInv_MenuPrincipal.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmMantBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmMantPercha.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmMantProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmKardex.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.frmTransferenciaBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ReporteEspecificoCodigoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ReporteMovimientoInventario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralBodega.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralPercha.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.ReporteGeneralTipoProducto.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\RdlCompile.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Forms\obj\Debug\RdlCompile.compiled

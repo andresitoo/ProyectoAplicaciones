@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SAVModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="SAVModelStoreContainer">
+    <EntitySet Name="FC_M_EMPLEADO" EntityType="SAVModel.Store.FC_M_EMPLEADO" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="FC_T_CABECERA_FACTURA" EntityType="SAVModel.Store.FC_T_CABECERA_FACTURA" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="FC_T_CABECERADEVOLUCION" EntityType="SAVModel.Store.FC_T_CABECERADEVOLUCION" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="FC_T_DETALLE_PRODUCTO" EntityType="SAVModel.Store.FC_T_DETALLE_PRODUCTO" store:Type="Tables" store:Schema="dbo" store:Name="FC_T_DETALLE_PRODUCTO">
+      <DefiningQuery>SELECT 
+      [FC_T_DETALLE_PRODUCTO].[numero_factura] AS [numero_factura], 
+      [FC_T_DETALLE_PRODUCTO].[secuencial] AS [secuencial], 
+      [FC_T_DETALLE_PRODUCTO].[cod_producto] AS [cod_producto], 
+      [FC_T_DETALLE_PRODUCTO].[cantidad] AS [cantidad], 
+      [FC_T_DETALLE_PRODUCTO].[subtotal] AS [subtotal]
+      FROM [dbo].[FC_T_DETALLE_PRODUCTO] AS [FC_T_DETALLE_PRODUCTO]</DefiningQuery>
+    </EntitySet>
+    <EntitySet Name="FC_T_DETALLEDEVOLUCION" EntityType="SAVModel.Store.FC_T_DETALLEDEVOLUCION" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RH_M_CLIENTE" EntityType="SAVModel.Store.RH_M_CLIENTE" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RH_M_DIRECCION" EntityType="SAVModel.Store.RH_M_DIRECCION" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="RH_M_TELEFONO" EntityType="SAVModel.Store.RH_M_TELEFONO" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE" Association="SAVModel.Store.FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="FC_T_CABECERA_FACTURA" EntitySet="FC_T_CABECERA_FACTURA" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA" Association="SAVModel.Store.FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA">
+      <End Role="FC_T_CABECERA_FACTURA" EntitySet="FC_T_CABECERA_FACTURA" />
+      <End Role="FC_T_CABECERADEVOLUCION" EntitySet="FC_T_CABECERADEVOLUCION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE" Association="SAVModel.Store.FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="FC_T_CABECERADEVOLUCION" EntitySet="FC_T_CABECERADEVOLUCION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION" Association="SAVModel.Store.FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION">
+      <End Role="FC_T_CABECERADEVOLUCION" EntitySet="FC_T_CABECERADEVOLUCION" />
+      <End Role="FC_T_DETALLEDEVOLUCION" EntitySet="FC_T_DETALLEDEVOLUCION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RH_M_DIRECCION_RH_M_CLIENTE" Association="SAVModel.Store.FK_RH_M_DIRECCION_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="RH_M_DIRECCION" EntitySet="RH_M_DIRECCION" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RH_M_TELEFONO_RH_M_CLIENTE" Association="SAVModel.Store.FK_RH_M_TELEFONO_RH_M_CLIENTE">
+      <End Role="RH_M_CLIENTE" EntitySet="RH_M_CLIENTE" />
+      <End Role="RH_M_TELEFONO" EntitySet="RH_M_TELEFONO" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="FC_M_EMPLEADO">
+    <Key>
+      <PropertyRef Name="codigo" />
+    </Key>
+    <Property Name="codigo" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" />
+    <Property Name="apellido" Type="varchar" MaxLength="50" />
+    <Property Name="cedula" Type="varchar" MaxLength="10" />
+    <Property Name="telefono" Type="varchar" MaxLength="50" />
+    <Property Name="direccion" Type="varchar" MaxLength="50" />
+    <Property Name="cargo" Type="varchar" MaxLength="50" />
+    <Property Name="fecha_nacimiento" Type="date" />
+    <Property Name="fecha_ingreso" Type="date" />
+    <Property Name="estado" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="FC_T_CABECERA_FACTURA">
+    <Key>
+      <PropertyRef Name="Codigo_Factura" />
+    </Key>
+    <Property Name="Codigo_Factura" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Empresa" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Forma_Pago" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Empleado" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Cliente" Type="numeric" Precision="4" />
+    <Property Name="Fecha_Factura" Type="date" />
+    <Property Name="Subtotal_Factura" Type="char" MaxLength="6" />
+    <Property Name="Iva_Factura" Type="char" MaxLength="6" />
+    <Property Name="Total_Factura" Type="char" MaxLength="6" />
+    <Property Name="Estado_Factura" Type="char" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="FC_T_CABECERADEVOLUCION">
+    <Key>
+      <PropertyRef Name="Codigo_Devolucion" />
+    </Key>
+    <Property Name="Codigo_Devolucion" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Factura" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Cliente" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Empleado" Type="numeric" Precision="4" />
+    <Property Name="Fecha_Devolucion" Type="date" />
+    <Property Name="Iva_Devolucion" Type="money" />
+    <Property Name="Descuento_Devolucion" Type="money" />
+    <Property Name="Total_Devolucion" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <!--Se encontraron errores durante la generación:
+      advertencia 6002: La tabla o vista 'SAV.dbo.FC_T_DETALLE_PRODUCTO' no tiene ninguna clave principal definida. Se ha inferido la clave y la definición se creó como vista o tabla de solo lectura.
+      -->
+  <EntityType Name="FC_T_DETALLE_PRODUCTO">
+    <Key>
+      <PropertyRef Name="numero_factura" />
+      <PropertyRef Name="secuencial" />
+    </Key>
+    <Property Name="numero_factura" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="secuencial" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="cod_producto" Type="numeric" Precision="4" />
+    <Property Name="cantidad" Type="numeric" Precision="4" />
+    <Property Name="subtotal" Type="char" MaxLength="6" />
+  </EntityType>
+  <EntityType Name="FC_T_DETALLEDEVOLUCION">
+    <Key>
+      <PropertyRef Name="Linea_DetalleDevolucion" />
+      <PropertyRef Name="Codigo_Devolucion" />
+    </Key>
+    <Property Name="Linea_DetalleDevolucion" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Devolucion" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Producto" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Empresa" Type="numeric" Precision="4" />
+    <Property Name="Observacion_Devolucion" Type="varchar" MaxLength="50" />
+    <Property Name="Cantidad_Devolucion" Type="numeric" Precision="2" />
+    <Property Name="Precio_ProductoDevolucion" Type="money" />
+    <Property Name="Subtotal_DetalleDevolucion" Type="money" />
+  </EntityType>
+  <EntityType Name="RH_M_CLIENTE">
+    <Key>
+      <PropertyRef Name="Codigo_Cliente" />
+    </Key>
+    <Property Name="Codigo_Cliente" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="RUC_Cliente" Type="numeric" Nullable="false" Precision="13" />
+    <Property Name="Cedula_Cliente" Type="numeric" Nullable="false" Precision="10" />
+    <Property Name="RazonSocial_Cliente" Type="varchar" Nullable="false" MaxLength="40" />
+    <Property Name="Nombre_Cliente" Type="varchar" Nullable="false" MaxLength="40" />
+    <Property Name="Apellido_Cliente" Type="varchar" Nullable="false" MaxLength="40" />
+    <Property Name="Direccion_Cliente" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Telefono_Cliente" Type="numeric" Nullable="false" Precision="10" />
+    <Property Name="Genero_Cliente" Type="char" Nullable="false" MaxLength="1" />
+    <Property Name="Estado_Cliente" Type="char" Nullable="false" MaxLength="1" />
+  </EntityType>
+  <EntityType Name="RH_M_DIRECCION">
+    <Key>
+      <PropertyRef Name="Secuencial_Direccion" />
+    </Key>
+    <Property Name="Secuencial_Direccion" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Empleado" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Proveedor" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Cliente" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Empresa" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Tipo_Direccion" Type="numeric" Precision="4" />
+    <Property Name="Numero_Parroquia" Type="numeric" Precision="4" />
+    <Property Name="Calle_Principal" Type="varchar" Nullable="false" MaxLength="50" />
+    <Property Name="Numeracion" Type="numeric" Precision="3" />
+    <Property Name="Calle_Secundaria" Type="varchar" MaxLength="50" />
+    <Property Name="Descripcion" Type="varchar" MaxLength="70" />
+  </EntityType>
+  <EntityType Name="RH_M_TELEFONO">
+    <Key>
+      <PropertyRef Name="Secuencial_Telefono" />
+    </Key>
+    <Property Name="Secuencial_Telefono" Type="numeric" Nullable="false" Precision="4" />
+    <Property Name="Codigo_Provincia" Type="numeric" Precision="4" />
+    <Property Name="Codigo_TipoTelefono" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Empleado" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Cliente" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Empresa" Type="numeric" Precision="4" />
+    <Property Name="Codigo_Proveedor" Type="numeric" Precision="4" />
+    <Property Name="Numero_Telefono" Type="numeric" Precision="6" />
+  </EntityType>
+  <Association Name="FK_FC_T_CABECERA_FACTURA_RH_M_CLIENTE">
+    <End Role="RH_M_CLIENTE" Type="SAVModel.Store.RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Role="FC_T_CABECERA_FACTURA" Type="SAVModel.Store.FC_T_CABECERA_FACTURA" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="FC_T_CABECERA_FACTURA">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FC_T_CABECERADEVOLUCION_FC_T_CABECERA_FACTURA">
+    <End Role="FC_T_CABECERA_FACTURA" Type="SAVModel.Store.FC_T_CABECERA_FACTURA" Multiplicity="1" />
+    <End Role="FC_T_CABECERADEVOLUCION" Type="SAVModel.Store.FC_T_CABECERADEVOLUCION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FC_T_CABECERA_FACTURA">
+        <PropertyRef Name="Codigo_Factura" />
+      </Principal>
+      <Dependent Role="FC_T_CABECERADEVOLUCION">
+        <PropertyRef Name="Codigo_Factura" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FC_T_CABECERADEVOLUCION_RH_M_CLIENTE">
+    <End Role="RH_M_CLIENTE" Type="SAVModel.Store.RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Role="FC_T_CABECERADEVOLUCION" Type="SAVModel.Store.FC_T_CABECERADEVOLUCION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="FC_T_CABECERADEVOLUCION">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_FC_T_DETALLEDEVOLUCION_FC_T_CABECERADEVOLUCION">
+    <End Role="FC_T_CABECERADEVOLUCION" Type="SAVModel.Store.FC_T_CABECERADEVOLUCION" Multiplicity="1" />
+    <End Role="FC_T_DETALLEDEVOLUCION" Type="SAVModel.Store.FC_T_DETALLEDEVOLUCION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="FC_T_CABECERADEVOLUCION">
+        <PropertyRef Name="Codigo_Devolucion" />
+      </Principal>
+      <Dependent Role="FC_T_DETALLEDEVOLUCION">
+        <PropertyRef Name="Codigo_Devolucion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RH_M_DIRECCION_RH_M_CLIENTE">
+    <End Role="RH_M_CLIENTE" Type="SAVModel.Store.RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Role="RH_M_DIRECCION" Type="SAVModel.Store.RH_M_DIRECCION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="RH_M_DIRECCION">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RH_M_TELEFONO_RH_M_CLIENTE">
+    <End Role="RH_M_CLIENTE" Type="SAVModel.Store.RH_M_CLIENTE" Multiplicity="0..1" />
+    <End Role="RH_M_TELEFONO" Type="SAVModel.Store.RH_M_TELEFONO" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="RH_M_CLIENTE">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Principal>
+      <Dependent Role="RH_M_TELEFONO">
+        <PropertyRef Name="Codigo_Cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

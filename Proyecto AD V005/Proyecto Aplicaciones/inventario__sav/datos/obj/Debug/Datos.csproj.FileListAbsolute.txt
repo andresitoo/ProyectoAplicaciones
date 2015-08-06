@@ -1,0 +1,100 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\bin\Debug\Datos.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\bin\Debug\Entity.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\obj\Debug\Datos.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\SAV_ProyectoIntegrados\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\Part Storage 4.1\Programacion\History\UNITED Compras - Facturacion - Inventario 22-08-2014\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Datos\obj\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\bin\Debug\Datos.dll.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\bin\Debug\EntityFramework.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\bin\Debug\EntityFramework.xml
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\obj\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Datos\obj\Debug\Datos.pdb

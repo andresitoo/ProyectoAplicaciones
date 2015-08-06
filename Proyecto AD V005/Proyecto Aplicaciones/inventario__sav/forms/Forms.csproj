@@ -1,0 +1,346 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6BF8274E-8547-45B3-BBBE-0462994A5FDD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Forms</RootNamespace>
+    <AssemblyName>Forms</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsultaBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaBodega.Designer.cs">
+      <DependentUpon>ConsultaBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteEspecificoNombreProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteEspecificoNombreProducto.Designer.cs">
+      <DependentUpon>ReporteEspecificoNombreProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaKardexProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaKardexProducto.Designer.cs">
+      <DependentUpon>ConsultaKardexProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaMovimientoInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaMovimientoInventario.Designer.cs">
+      <DependentUpon>ConsultaMovimientoInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaPercha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaPercha.Designer.cs">
+      <DependentUpon>ConsultaPercha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaProducto.Designer.cs">
+      <DependentUpon>ConsultaProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaTipoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConsultaTipoProducto.Designer.cs">
+      <DependentUpon>ConsultaTipoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantMedida.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantMedida.Designer.cs">
+      <DependentUpon>frmMantMedida.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantTipoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantTipoProducto.Designer.cs">
+      <DependentUpon>frmMantTipoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmConceptoMovimientoInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConceptoMovimientoInventario.Designer.cs">
+      <DependentUpon>frmConceptoMovimientoInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmInv_MenuPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInv_MenuPrincipal.Designer.cs">
+      <DependentUpon>frmInv_MenuPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantBodega.Designer.cs">
+      <DependentUpon>frmMantBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantPercha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantPercha.Designer.cs">
+      <DependentUpon>frmMantPercha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMantProducto.Designer.cs">
+      <DependentUpon>frmMantProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMovimientoInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMovimientoInventario.Designer.cs">
+      <DependentUpon>frmMovimientoInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKardex.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKardex.Designer.cs">
+      <DependentUpon>frmKardex.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTransferenciaBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTransferenciaBodega.Designer.cs">
+      <DependentUpon>frmTransferenciaBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReporteEspecificoCodigoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteEspecificoCodigoProducto.Designer.cs">
+      <DependentUpon>ReporteEspecificoCodigoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="P_Bodega.cs" />
+    <Compile Include="P_Medida.cs" />
+    <Compile Include="P_MovimientoInventario.cs" />
+    <Compile Include="P_Percha.cs" />
+    <Compile Include="P_Producto.cs" />
+    <Compile Include="P_TipoProducto.cs" />
+    <Compile Include="P_Transferencia.cs" />
+    <Compile Include="ReporteGeneralBodega.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteGeneralBodega.Designer.cs">
+      <DependentUpon>ReporteGeneralBodega.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteGeneralPercha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteGeneralPercha.Designer.cs">
+      <DependentUpon>ReporteGeneralPercha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteGeneralProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteGeneralProducto.Designer.cs">
+      <DependentUpon>ReporteGeneralProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteGeneralTipoProducto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteGeneralTipoProducto.Designer.cs">
+      <DependentUpon>ReporteGeneralTipoProducto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReporteMovimientoInventario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReporteMovimientoInventario.Designer.cs">
+      <DependentUpon>ReporteMovimientoInventario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SAVDataSetInventario.cs">
+      <DependentUpon>SAVDataSetInventario.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SAVDataSetInventario.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SAVDataSetInventario.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ConsultaBodega.resx">
+      <DependentUpon>ConsultaBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteEspecificoNombreProducto.resx">
+      <DependentUpon>ReporteEspecificoNombreProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaKardexProducto.resx">
+      <DependentUpon>ConsultaKardexProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaMovimientoInventario.resx">
+      <DependentUpon>ConsultaMovimientoInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaPercha.resx">
+      <DependentUpon>ConsultaPercha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaProducto.resx">
+      <DependentUpon>ConsultaProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConsultaTipoProducto.resx">
+      <DependentUpon>ConsultaTipoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantMedida.resx">
+      <DependentUpon>frmMantMedida.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantTipoProducto.resx">
+      <DependentUpon>frmMantTipoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConceptoMovimientoInventario.resx">
+      <DependentUpon>frmConceptoMovimientoInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInv_MenuPrincipal.resx">
+      <DependentUpon>frmInv_MenuPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantBodega.resx">
+      <DependentUpon>frmMantBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantPercha.resx">
+      <DependentUpon>frmMantPercha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMantProducto.resx">
+      <DependentUpon>frmMantProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMovimientoInventario.resx">
+      <DependentUpon>frmMovimientoInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKardex.resx">
+      <DependentUpon>frmKardex.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTransferenciaBodega.resx">
+      <DependentUpon>frmTransferenciaBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="ReporteEspecificoCodigoProducto.resx">
+      <DependentUpon>ReporteEspecificoCodigoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteGeneralProducto.resx">
+      <DependentUpon>ReporteGeneralProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportGeneralMovimientoInventario.rdlc" />
+    <EmbeddedResource Include="ReporteMovimientoInventario.resx">
+      <DependentUpon>ReporteMovimientoInventario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportGeneralTipoProducto.rdlc" />
+    <EmbeddedResource Include="ReportGeneralPercha.rdlc" />
+    <EmbeddedResource Include="ReportGeneralBodega.rdlc" />
+    <EmbeddedResource Include="ReporteGeneralBodega.resx">
+      <DependentUpon>ReporteGeneralBodega.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteGeneralPercha.resx">
+      <DependentUpon>ReporteGeneralPercha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReporteGeneralTipoProducto.resx">
+      <DependentUpon>ReporteGeneralTipoProducto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReportGeneralProducto.rdlc" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="SAVDataSetInventario.xsc">
+      <DependentUpon>SAVDataSetInventario.xsd</DependentUpon>
+    </None>
+    <None Include="SAVDataSetInventario.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SAVDataSetInventario.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SAVDataSetInventario.xss">
+      <DependentUpon>SAVDataSetInventario.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Modulo_Seguridad\Modulo_Seguridad.csproj">
+      <Project>{f6fd61ee-feca-476a-b3a0-d1c389819ddd}</Project>
+      <Name>Modulo_Seguridad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{84eb2f2a-76c5-4457-a3e8-7736a17f4046}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{1fa037a3-f4d5-4e19-a2f9-8aaf1e0aa01f}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReglasNegocio\ReglasNegocio.csproj">
+      <Project>{a390bdb4-97cb-4462-878b-f1b5f92c1689}</Project>
+      <Name>ReglasNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Imagenes\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

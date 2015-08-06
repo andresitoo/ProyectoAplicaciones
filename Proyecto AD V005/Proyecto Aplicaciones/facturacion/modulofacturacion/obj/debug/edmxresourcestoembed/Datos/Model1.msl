@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SAVModelPruebaStoreContainer" CdmEntityContainer="SAVEntities1">
+    <EntitySetMapping Name="CP_CABECERA_COTIZACION">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_CABECERA_COTIZACION">
+        <MappingFragment StoreEntitySet="CP_CABECERA_COTIZACION">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="id_provedor" ColumnName="id_provedor" />
+          <ScalarProperty Name="id_user_aprovacion" ColumnName="id_user_aprovacion" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="cod_estado" ColumnName="cod_estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_CABECERA_DESPACHO">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_CABECERA_DESPACHO">
+        <MappingFragment StoreEntitySet="CP_CABECERA_DESPACHO">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="fecha_despacho" ColumnName="fecha_despacho" />
+          <ScalarProperty Name="fecha_entrega" ColumnName="fecha_entrega" />
+          <ScalarProperty Name="numero_orden_compra" ColumnName="numero_orden_compra" />
+          <ScalarProperty Name="id_proveedor" ColumnName="id_proveedor" />
+          <ScalarProperty Name="id_estado" ColumnName="id_estado" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_CABECERA_PEDIDO">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_CABECERA_PEDIDO">
+        <MappingFragment StoreEntitySet="CP_CABECERA_PEDIDO">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="id_responsable" ColumnName="id_responsable" />
+          <ScalarProperty Name="fecha" ColumnName="fecha" />
+          <ScalarProperty Name="Observaciones" ColumnName="Observaciones" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_COTIZACION_X_PEDIDO">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_COTIZACION_X_PEDIDO">
+        <MappingFragment StoreEntitySet="CP_COTIZACION_X_PEDIDO">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="numero_pedido" ColumnName="numero_pedido" />
+          <ScalarProperty Name="numero_cotizacion" ColumnName="numero_cotizacion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_DETALLE_COTIZACION">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_DETALLE_COTIZACION">
+        <MappingFragment StoreEntitySet="CP_DETALLE_COTIZACION">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="linea" ColumnName="linea" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="id_producto" ColumnName="id_producto" />
+          <ScalarProperty Name="costo_unitario" ColumnName="costo_unitario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_DETALLE_DESPACHO">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_DETALLE_DESPACHO">
+        <MappingFragment StoreEntitySet="CP_DETALLE_DESPACHO">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="linea" ColumnName="linea" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="id_producto" ColumnName="id_producto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_DETALLE_PEDIDO">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_DETALLE_PEDIDO">
+        <MappingFragment StoreEntitySet="CP_DETALLE_PEDIDO">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="linea" ColumnName="linea" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="id_producto" ColumnName="id_producto" />
+          <ScalarProperty Name="costo_unitario" ColumnName="costo_unitario" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_ESTADO">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_ESTADO">
+        <MappingFragment StoreEntitySet="CP_ESTADO">
+          <ScalarProperty Name="codigo" ColumnName="codigo" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_M_PROVEEDOR">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_M_PROVEEDOR">
+        <MappingFragment StoreEntitySet="CP_M_PROVEEDOR">
+          <ScalarProperty Name="Codigo_Proveedor" ColumnName="Codigo_Proveedor" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="razonSocial" ColumnName="razonSocial" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="fecha_ingreso" ColumnName="fecha_ingreso" />
+          <ScalarProperty Name="responsable_legal" ColumnName="responsable_legal" />
+          <ScalarProperty Name="contabilidad" ColumnName="contabilidad" />
+          <ScalarProperty Name="ruc" ColumnName="ruc" />
+          <ScalarProperty Name="cedula_pass" ColumnName="cedula_pass" />
+          <ScalarProperty Name="id_tipo_producto" ColumnName="id_tipo_producto" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_ORDEN_COMPRA">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_ORDEN_COMPRA">
+        <MappingFragment StoreEntitySet="CP_ORDEN_COMPRA">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="fecha_generacion" ColumnName="fecha_generacion" />
+          <ScalarProperty Name="fecha_entrega" ColumnName="fecha_entrega" />
+          <ScalarProperty Name="id_responsable" ColumnName="id_responsable" />
+          <ScalarProperty Name="fecha_aprovacion" ColumnName="fecha_aprovacion" />
+          <ScalarProperty Name="numero_cotizacion" ColumnName="numero_cotizacion" />
+          <ScalarProperty Name="subtoral" ColumnName="subtoral" />
+          <ScalarProperty Name="iva" ColumnName="iva" />
+          <ScalarProperty Name="total" ColumnName="total" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="CP_ORDEN_COMPRA_DETALLE">
+      <EntityTypeMapping TypeName="SAVModelPrueba.CP_ORDEN_COMPRA_DETALLE">
+        <MappingFragment StoreEntitySet="CP_ORDEN_COMPRA_DETALLE">
+          <ScalarProperty Name="numero" ColumnName="numero" />
+          <ScalarProperty Name="linea" ColumnName="linea" />
+          <ScalarProperty Name="cantidad" ColumnName="cantidad" />
+          <ScalarProperty Name="id_producto" ColumnName="id_producto" />
+          <ScalarProperty Name="costo_unitario" ColumnName="costo_unitario" />
+          <ScalarProperty Name="subtotal" ColumnName="subtotal" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

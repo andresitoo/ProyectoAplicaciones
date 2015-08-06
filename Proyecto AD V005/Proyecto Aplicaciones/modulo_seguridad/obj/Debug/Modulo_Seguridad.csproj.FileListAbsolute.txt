@@ -1,0 +1,137 @@
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe.config
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.exe
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Compras.exe
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\DEBSAccesoSQL.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\EntityFramework.dll
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Compras.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\bin\Debug\EntityFramework.xml
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csprojResolveAssemblyReference.cache
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Frmempleado.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.frmUsuario.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.MDISeguridad.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csproj.GenerateResource.Cache
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.exe
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.pdb
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.FrmPerfilUsuario.resources
+D:\Intgrados(24-08-14)\United by David\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.frmPerfilMenu.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe.config
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.pdb
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.dll
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.dll
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.exe
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Compras.exe
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.dll
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\DEBSAccesoSQL.dll
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\EntityFramework.dll
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.pdb
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.pdb
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.pdb
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.pdb
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Compras.pdb
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\bin\Debug\EntityFramework.xml
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csprojResolveAssemblyReference.cache
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Frmempleado.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.frmPerfilMenu.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.FrmPerfilUsuario.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.frmUsuario.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.MDISeguridad.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csproj.GenerateResource.Cache
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.exe
+D:\Intgrados(24-08-14)\Davidd\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe.config
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.exe
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\DEBSAccesoSQL.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csprojResolveAssemblyReference.cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Frmempleado.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.frmPerfilMenu.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.FrmPerfilUsuario.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.frmUsuario.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.MDISeguridad.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csproj.GenerateResource.Cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.exe
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.pdb
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe.config
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.pdb
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.dll
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.dll
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.exe
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.dll
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\DEBSAccesoSQL.dll
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.pdb
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.pdb
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\Forms.pdb
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.pdb
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csprojResolveAssemblyReference.cache
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Frmempleado.resources
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.frmPerfilMenu.resources
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.FrmPerfilUsuario.resources
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.frmUsuario.resources
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.MDISeguridad.resources
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csproj.GenerateResource.Cache
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.exe
+D:\Proyecto AD\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\DEBSAccesoSQL.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Frmempleado.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.frmPerfilMenu.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.FrmPerfilUsuario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.frmUsuario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.MDISeguridad.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csproj.GenerateResource.Cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\DEBSAccesoSQL.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Frmempleado.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.frmPerfilMenu.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.FrmPerfilUsuario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.frmUsuario.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.MDISeguridad.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Properties.Resources.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csproj.GenerateResource.Cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Modulo_Seguridad\obj\Debug\Modulo_Seguridad.Formularios.frmRol.resources

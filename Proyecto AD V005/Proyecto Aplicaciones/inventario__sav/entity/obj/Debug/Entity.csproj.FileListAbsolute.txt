@@ -1,0 +1,33 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Entity\bin\Debug\Entity.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Entity\bin\Debug\Entity.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Entity\obj\Debug\Entity.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Entity\obj\Debug\Entity.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Inventario__SAV\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Entity\bin\Debug\Entity.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Entity\bin\Debug\Entity.pdb
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Entity\obj\Debug\Entity.dll
+D:\Universidad\2014 I periodo\Sistemas Integrados\Inventario__SAV\Entity\obj\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Entity\bin\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Entity\bin\Debug\Entity.pdb
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Entity\obj\Debug\Entity.dll
+D:\Part Storage 4.1\Programacion\Inventario__SAV\Entity\obj\Debug\Entity.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Entity\bin\Debug\Entity.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Entity\bin\Debug\Entity.pdb
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.dll
+C:\Users\Familia Dlv\Desktop\Modulo Compras\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Entity\bin\Debug\Entity.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Entity\bin\Debug\Entity.pdb
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.dll
+D:\Proyecto AD\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Entity\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Entity\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V002\Modulo Compras\Inventario__SAV\Entity\obj\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Entity\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Entity\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Entity\obj\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Inventario__SAV\Entity\obj\Debug\Entity.pdb

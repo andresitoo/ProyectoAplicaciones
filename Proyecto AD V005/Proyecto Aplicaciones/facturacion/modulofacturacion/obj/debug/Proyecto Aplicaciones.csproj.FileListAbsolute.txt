@@ -1,0 +1,50 @@
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Modulo Compras\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Modulo Compras\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Modulo Compras\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\EntityFramework.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Forms.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\DEBSAccesoSQL.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Forms.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\EntityFramework.xml
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\Proyecto Aplicaciones.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.FrmLogin.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.Properties.Resources.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\Proyecto Aplicaciones.csproj.GenerateResource.Cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V003\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V004\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V004\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V004\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.exe.config
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ModuloFacturacion.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\EntityFramework.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Forms.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Modulo_Seguridad.exe
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Entity.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ReglasNegocio.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Datos.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\DEBSAccesoSQL.dll
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Forms.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Modulo_Seguridad.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\EntityFramework.xml
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Entity.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\ReglasNegocio.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\bin\Debug\Datos.pdb
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\Proyecto Aplicaciones.csprojResolveAssemblyReference.cache
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.FrmLogin.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\ModuloFacturacion.Properties.Resources.resources
+D:\Aplicaciones Distribuidas Proyecto\Proyecto AD V005\Proyecto Aplicaciones\Facturacion\ModuloFacturacion\obj\Debug\Proyecto Aplicaciones.csproj.GenerateResource.Cache
